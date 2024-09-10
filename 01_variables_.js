@@ -5,7 +5,6 @@ accountCity = "jaipur"
 let accountState;
 
 
-
 // accountId = 2// this can be analyzed by node js not allowed
 console.log(accountId); 
 
